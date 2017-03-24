@@ -9,10 +9,14 @@ Enqoo 是一家基于产品为导向的设计公司，崇尚设计师和工程�
 ### 开放职位
 
 点击查看具体要求
-* UI／网页设计师
-* Node.js 全栈开发工程师
-* Web开发工程师
-* 社会化媒体运营
+* [UI／网页设计师](https://github.com/Zlix/enqoo/blob/master/job-descriptions/UI.md)
+* [Node.js 全栈开发工程师](https://github.com/Zlix/enqoo/blob/master/job-descriptions/UI.md)
+* [Web开发工程师](https://github.com/Zlix/enqoo/blob/master/job-descriptions/UI.md)
+* [社会化媒体运营](https://github.com/Zlix/enqoo/blob/master/job-descriptions/UI.md)
 
 ### 高大上的办公环境，快快过来:
-![image](http://github.com/Zlix/enqoo/raw/master/images-folder/XXX.jpg)
+![image](https://github.com/Zlix/enqoo/blob/master/img/img1.jpg)
+
+![image](https://github.com/Zlix/enqoo/blob/master/img/img2.jpg)
+
+![image](https://github.com/Zlix/enqoo/blob/master/img/img3.jpg)
